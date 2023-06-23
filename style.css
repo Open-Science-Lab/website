@@ -1,0 +1,296 @@
+body {
+  font-family: "Varta";
+  color: #585858;
+}
+
+.row {
+  margin: 30px 50px 0px 50px;
+}
+
+.header {
+  width: 100%;
+  height: 700px;
+  background-image: url(images/background.svg);
+  mix-blend-mode: normal;
+}
+
+.illustration-img{
+    width: 60%;
+    display: block;
+    margin: auto;
+    margin-top: -40px;
+}
+
+.text-header{
+    margin-top: -16%;
+font-weight: 700;
+font-size: 27px;
+color: #333333;
+}
+
+.text-subheader{
+font-weight: 600;
+font-size: 15px;
+color: #333333;
+}
+
+.img-container{
+    position: relative;
+    text-align: center;
+}
+
+.subFooter {
+  height: 140px;
+  width: 100%;
+  background: rgba(75, 156, 255, 0.1);
+  mix-blend-mode: normal;
+}
+
+.footer {
+  height: 30px;
+  width: 100%;
+  background: rgba(75, 156, 255, 0.3);
+  mix-blend-mode: normal;
+  padding: 3px;
+}
+
+.logo {
+  margin-top: 3%;
+  margin-left: 4%;
+}
+
+.section {
+  padding: 30px;
+}
+
+a {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 29px;
+  color: #333333;
+  margin-right: 25px;
+}
+
+.grpImg {
+  width: 850px;
+  height: 100px;
+  display: flex;
+  margin: 20px auto;
+}
+
+.heading {
+  font-weight: 700;
+  font-size: 35px;
+  color: #333333;
+  margin-bottom: 15px;
+}
+
+.sub-heading {
+  font-weight: 700;
+  font-size: 26px;
+  color: #333333;
+  text-transform: uppercase;
+  margin-top: 15px;
+  text-decoration: underline;
+}
+
+.footer-text {
+  color: #333333;
+}
+
+.footer-img {
+  vertical-align: middle;
+}
+
+.circle {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  border: 2px solid #4c9cff;
+  text-align: center;
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.social-logo {
+  color: #4c9cff;
+  vertical-align: bottom;
+}
+
+.margin-auto {
+  margin: auto;
+}
+
+.subFooter-text {
+  margin-bottom: 0px;
+}
+
+.height-100 {
+  height: 100%;
+}
+
+.instruction {
+  background: rgba(76, 156, 255, 0.1);
+  mix-blend-mode: normal;
+  border-radius: 20px;
+  margin-right: 20px;
+  padding: 13px;
+}
+
+.operate-text {
+  font-size: 11px;
+  margin-top: -20px;
+  margin-bottom: 15px;
+}
+
+.font-23 {
+  font-size: 23px;
+}
+
+.mrg-left-20 {
+  margin-left: 20px;
+}
+
+.mrg-left-0 {
+  margin-left: 0px;
+}
+
+.mrg-top-20 {
+  margin-top: 20px;
+}
+
+.about-img {
+  width: 75%;
+}
+
+.sub-text {
+  background: rgba(233, 152, 21, 0.1);
+  mix-blend-mode: normal;
+  border-radius: 5px;
+  color: #333333;
+  padding: 6px;
+  font-size: 14px;
+  margin-top: 11px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.partners {
+  width: 70%;
+  margin: auto;
+  display: block;
+}
+
+.sbi {
+  width: 40%;
+  margin: auto;
+  display: block;
+}
+
+.name {
+  font-weight: 700;
+  font-size: 20px;
+  color: #333333;
+  text-align: center;
+}
+
+.about-members {
+  margin-left: 0px;
+  margin-top: 20px;
+}
+
+.partner-box {
+  background: #ffffff;
+  border: 1px solid #979797;
+  border-radius: 17px;
+  width: auto;
+  margin-top: 15px;
+  margin-left: 20px;
+}
+
+.education-img {
+  width: 75%;
+  margin: auto;
+  display: block;
+}
+
+.research-img {
+  width: 60%;
+  margin: auto;
+  display: block;
+}
+
+.startup-img {
+  width: 40%;
+  margin-left: 50px;
+}
+
+.startup-up-img {
+  margin-top: 230px;
+}
+
+.startup-down-img {
+  margin-left: -140px;
+}
+
+.startup {
+  margin-top: -120px;
+}
+
+.box {
+  background: #ffffff;
+  box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  padding: 20px;
+  margin-right: 40px;
+}
+
+.partnership {
+  width: 10%;
+  margin-top: -65px;
+  margin-right: 20px;
+}
+
+.name-header {
+  color: #333333;
+}
+
+.title {
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+
+.contact {
+  font-size: 10px;
+}
+
+.partnership-text {
+  text-transform: uppercase;
+  color: #333333;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  font-size: 12px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.partnership-sub-text {
+  color: #585858;
+  font-size: 12px;
+}
+
+ul {
+  margin-left: -20px;
+}
+
+.groups {
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+
+.grp-img {
+  margin-top: 20px;
+}

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="660px" height="510px" viewBox="0 0 660 510" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Research</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="600" height="450" rx="20"></rect>
+        <filter x="-7.8%" y="-9.6%" width="115.7%" height="120.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Open-Science-Stack-Website---3" transform="translate(-70.000000, -13638.000000)">
+            <g id="Research" transform="translate(100.000000, 13664.000000)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <text id="Is-there-a-reproduci" font-family="Montserrat-Bold, Montserrat" font-size="20" font-weight="bold" fill="#333333">
+                    <tspan x="30" y="49">IS THERE A REPRODUCIBILITY CRISIS?</tspan>
+                </text>
+                <g id="Group-3" transform="translate(161.000000, 220.500000) rotate(150.000000) translate(-161.000000, -220.500000) translate(61.000000, 121.000000)" stroke-linecap="round" stroke-width="15">
+                    <path d="M-9.09494702e-13,99 C-9.09494702e-13,154.228475 44.771525,199 100,199 C155.228475,199 200,154.228475 200,99" id="Path" stroke="#F15858"></path>
+                    <path d="M14.8554486,-11.3788474 C14.8554486,34.7715309 46.1181366,73.6201172 88.6211526,85.1445514" id="Path" stroke="#4C9CFF" transform="translate(51.738301, 36.882852) rotate(90.000000) translate(-51.738301, -36.882852) "></path>
+                    <path d="M171.833058,49.2873206 C181.651123,56.8447085 192.912419,62.6193972 205.13253,66.1269733" id="Path" stroke="#4CBD97" transform="translate(188.482794, 57.707147) scale(-1, 1) rotate(90.000000) translate(-188.482794, -57.707147) "></path>
+                    <path d="M134.552905,-5.13838781 C138.459308,8.84526458 145.328984,21.5922637 154.442325,32.3830002" id="Path" stroke="#F9A41A" transform="translate(144.497615, 13.622306) scale(-1, 1) rotate(90.000000) translate(-144.497615, -13.622306) "></path>
+                </g>
+                <text id="38%" font-family="Montserrat-SemiBold, Montserrat SemiBold" font-size="18" font-weight="500" line-spacing="20" fill="#333333">
+                    <tspan x="316" y="254">38%</tspan>
+                </text>
+                <text id="Yes,-a-slight-crysis" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" line-spacing="20" fill="#333333">
+                    <tspan x="316" y="272">Yes, a slight crysis</tspan>
+                </text>
+                <line x1="261" y1="247.5" x2="311" y2="247.5" id="Path" stroke="#C8C8C8"></line>
+                <circle id="Oval" stroke="#FFFFFF" fill="#4C9CFF" cx="259.5" cy="247.5" r="2"></circle>
+                <text id="52%" font-family="Montserrat-SemiBold, Montserrat SemiBold" font-size="18" font-weight="500" line-spacing="20" fill="#333333">
+                    <tspan x="316" y="139">52%</tspan>
+                </text>
+                <text id="Yes,-a-significant-c" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" line-spacing="20" fill="#333333">
+                    <tspan x="316" y="157">Yes, a significant crysis</tspan>
+                </text>
+                <line x1="211" y1="132.5" x2="311" y2="132.5" id="Path" stroke="#C8C8C8"></line>
+                <text id="1,567" font-family="Montserrat-ExtraBold, Montserrat ExtraBold" font-size="30" font-weight="700" line-spacing="20" fill="#333333">
+                    <tspan x="125" y="218">1,567</tspan>
+                </text>
+                <text id="Researchers-Survey" font-family="Montserrat-Regular, Montserrat" font-size="18" font-weight="normal" line-spacing="20" fill="#333333">
+                    <tspan x="108" y="238">Researchers</tspan>
+                    <tspan x="132.912" y="258">Survey</tspan>
+                </text>
+                <circle id="Oval" stroke="#FFFFFF" fill="#F15858" cx="209.5" cy="132.5" r="2"></circle>
+                <text id="7%" font-family="Montserrat-SemiBold, Montserrat SemiBold" font-size="18" font-weight="500" line-spacing="20" fill="#333333">
+                    <tspan x="316" y="324">7%</tspan>
+                </text>
+                <text id="Don’t-know" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" line-spacing="20" fill="#333333">
+                    <tspan x="316" y="342">Don’t know</tspan>
+                </text>
+                <line x1="161" y1="317.5" x2="311" y2="317.5" id="Path" stroke="#C8C8C8"></line>
+                <text id="52%" font-family="Montserrat-SemiBold, Montserrat SemiBold" font-size="18" font-weight="500" line-spacing="20" fill="#333333">
+                    <tspan x="316" y="384">52%</tspan>
+                </text>
+                <text id="No,-there-is-no-crys" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" line-spacing="20" fill="#333333">
+                    <tspan x="316" y="402">No, there is no crysis</tspan>
+                </text>
+                <polyline id="Path" stroke="#C8C8C8" points="119 309 119 377.5 311 377.5"></polyline>
+                <circle id="Oval" stroke="#FFFFFF" fill="#F9A41A" cx="159.5" cy="317.5" r="2"></circle>
+                <circle id="Oval" stroke="#FFFFFF" fill="#4CBD97" cx="119.5" cy="308.5" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

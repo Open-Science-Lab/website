@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="450px" height="450px" viewBox="0 0 450 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Startup-1</title>
+    <defs>
+        <path d="M242.888544,35.7770876 L435.527864,421.055728 C440.467649,430.935298 436.463162,442.948759 426.583592,447.888544 C423.806483,449.277098 420.744222,450 417.63932,450 L32.3606798,450 C21.3149848,450 12.3606798,441.045695 12.3606798,430 C12.3606798,426.895098 13.0835816,423.832837 14.472136,421.055728 L207.111456,35.7770876 C212.051241,25.8975177 224.064702,21.8930308 233.944272,26.8328157 C237.81482,28.7680898 240.95327,31.9065396 242.888544,35.7770876 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Open-Science-Stack-Website---3" transform="translate(-882.000000, -15264.000000)">
+            <g id="Startup-1" transform="translate(882.000000, 15264.000000)">
+                <g transform="translate(225.000000, 225.000000) scale(1, -1) translate(-225.000000, -225.000000) ">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <rect id="Rectangle" fill="#4C9CFF" opacity="0.200000003" mask="url(#mask-2)" x="0" y="341" width="440" height="129"></rect>
+                    <polygon id="Rectangle" fill="#4C9CFF" opacity="0.5" mask="url(#mask-2)" points="0 212 440 212 440 335 0 335"></polygon>
+                    <rect id="Rectangle" fill="#4C9CFF" mask="url(#mask-2)" x="0" y="22" width="440" height="190"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" mask="url(#mask-2)" x="114" y="210" width="220" height="10"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" mask="url(#mask-2)" x="44" y="330" width="360" height="10"></rect>
+                </g>
+                <text id="16.18%" font-family="Varta-Bold, Varta" font-size="20" font-weight="bold" line-spacing="20" fill="#333333">
+                    <tspan x="194" y="50">16.18%</tspan>
+                </text>
+                <text id="Average-reduction-in" font-family="Varta-Regular, Varta" font-size="18" font-weight="normal" line-spacing="20" fill="#333333">
+                    <tspan x="144.738281" y="67.7207031">Average reduction in </tspan>
+                    <tspan x="156.893555" y="87.7207031">operational costs</tspan>
+                </text>
+                <text id="15.07%" font-family="Varta-Bold, Varta" font-size="20" font-weight="bold" line-spacing="20" fill="#333333">
+                    <tspan x="194" y="170">15.07%</tspan>
+                </text>
+                <text id="Average-reduction-IT" font-family="Varta-Regular, Varta" font-size="18" font-weight="normal" line-spacing="20" fill="#333333">
+                    <tspan x="155" y="191">Average reduction </tspan>
+                    <tspan x="179.789551" y="211">IT spending</tspan>
+                </text>
+                <text id="16.76%" font-family="Varta-Bold, Varta" font-size="20" font-weight="bold" line-spacing="20" fill="#FFFFFF">
+                    <tspan x="194" y="280">16.76%</tspan>
+                </text>
+                <text id="Average-reduction-IT" font-family="Varta-Regular, Varta" font-size="18" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                    <tspan x="155" y="301">Average reduction </tspan>
+                    <tspan x="164.949219" y="321">IT maintenance </tspan>
+                    <tspan x="207.624512" y="341">cost</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

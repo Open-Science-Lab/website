@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="748px" viewBox="0 0 1000 748" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 7</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Open-Science-Stack-Website---3" transform="translate(-220.000000, -1511.000000)">
+            <g id="Group-7" transform="translate(220.000000, 1511.000000)">
+                <path d="M20,0 L980,0 C991.045695,-2.02906125e-15 1000,8.954305 1000,20 L1000,170 L1000,170 L0,170 L0,20 C-1.3527075e-15,8.954305 8.954305,2.02906125e-15 20,0 Z" id="Rectangle" fill="#F9A41A" opacity="0.300000012"></path>
+                <rect id="Rectangle" fill="#E99815" x="20" y="58" width="143" height="90" rx="10"></rect>
+                <rect id="Rectangle" fill="#E99815" x="183" y="58" width="143" height="90" rx="10"></rect>
+                <text id="Interface-Engine" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="63.546875" y="100">INTERFACE</tspan>
+                    <tspan x="72.4501953" y="117">ENGINE</tspan>
+                </text>
+                <rect id="Rectangle" fill="#E99815" x="347" y="58" width="143" height="90" rx="10"></rect>
+                <text id="Experiment-Setup" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="385.99707" y="84">EXPERIMENT</tspan>
+                    <tspan x="401.943359" y="101">SETUP</tspan>
+                </text>
+                <text id="(-SKY-Pod-)" font-family="Varta-Regular, Varta" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="392.407227" y="116">( SKY Pod )</tspan>
+                </text>
+                <rect id="Rectangle" fill="#E99815" x="510" y="58" width="143" height="90" rx="10"></rect>
+                <text id="Runtime-Engine" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="536.383789" y="84">RUNTIME ENGINE</tspan>
+                </text>
+                <text id="(-Livestreaming,-Int" font-family="Varta-Regular, Varta" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="541.165039" y="101">( Livestreaming,</tspan>
+                    <tspan x="540.268555" y="118">Interpreter, Etc )</tspan>
+                </text>
+                <rect id="Rectangle" fill="#E99815" x="674" y="58" width="143" height="90" rx="10"></rect>
+                <text id="Data-Layer" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="715.25" y="108">DATA LAYER</tspan>
+                </text>
+                <rect id="Rectangle" fill="#E99815" x="837" y="58" width="143" height="90" rx="10"></rect>
+                <text id="Intelligence-Engine" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="872.021484" y="84">INTELLIGENCE</tspan>
+                    <tspan x="889.450195" y="101">ENGINE</tspan>
+                </text>
+                <text id="(-Hypothesis-Gen,-Pr" font-family="Varta-Regular, Varta" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="865.523438" y="116">( Hypothesis Gen,</tspan>
+                    <tspan x="873.433594" y="133">Protocol Gen )</tspan>
+                </text>
+                <text id="Compiler" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="228.290039" y="84">COMPILER</tspan>
+                </text>
+                <text id="(-System-Analysis,-O" font-family="Varta-Regular, Varta" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="210.644531" y="101">( System Analysis,</tspan>
+                    <tspan x="220.833984" y="118">Optimisation,</tspan>
+                    <tspan x="206.542969" y="135">Parallelization,Etc )</tspan>
+                </text>
+                <text id="Visual-Interface" font-family="Varta-Bold, Varta" font-size="14" font-weight="bold" fill="#77693F">
+                    <tspan x="444" y="34">VISUAL INTERFACE</tspan>
+                </text>
+                <rect id="Rectangle" fill="#D2E6FF" x="0" y="170" width="1000" height="190"></rect>
+                <rect id="Rectangle" fill="#4C9CFF" x="20" y="248" width="143" height="90" rx="10"></rect>
+                <rect id="Rectangle" fill="#4C9CFF" x="183" y="248" width="143" height="90" rx="10"></rect>
+                <text id="Device-Drivers" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="50.4042969" y="274">DEVICE DRIVERS</tspan>
+                </text>
+                <text id="(-Plug-&amp;-Play-)" font-family="Varta-Regular, Varta" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="57.9921875" y="291">( Plug &amp; Play )</tspan>
+                </text>
+                <rect id="Rectangle" fill="#4C9CFF" x="347" y="248" width="143" height="90" rx="10"></rect>
+                <text id="Persistance" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="383.591797" y="274">PERSISTANCE</tspan>
+                </text>
+                <text id="(-SKY-Traces-)" font-family="Varta-Regular, Varta" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="385.891602" y="291">( SKY Traces )</tspan>
+                </text>
+                <rect id="Rectangle" fill="#4C9CFF" x="510" y="248" width="143" height="90" rx="10"></rect>
+                <text id="Security" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="555.880859" y="274">SECURITY</tspan>
+                </text>
+                <text id="(-Users,-ACL,-Priori" font-family="Varta-Regular, Varta" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="528.829102" y="291">( Users, ACL, Priority )</tspan>
+                </text>
+                <rect id="Rectangle" fill="#4C9CFF" x="674" y="248" width="306" height="90" rx="10"></rect>
+                <rect id="Rectangle" fill="#1562C1" x="684" y="288" width="138" height="40" rx="6"></rect>
+                <text id="Process-Control" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="776.527344" y="274">PROCESS CONTROL</tspan>
+                </text>
+                <rect id="Rectangle" fill="#1562C1" x="832" y="288" width="138" height="40" rx="6"></rect>
+                <text id="Workflow-Engine" font-family="Varta-Bold, Varta" font-size="10" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="727.509277" y="305">WORKFLOW</tspan>
+                    <tspan x="736.708496" y="319">ENGINE</tspan>
+                </text>
+                <text id="Memory" font-family="Varta-Bold, Varta" font-size="10" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="882.21582" y="305">MEMORY</tspan>
+                </text>
+                <text id="(-Manager-Sample-)" font-family="Varta-Regular, Varta" font-size="10" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="863.036621" y="319">( Manager Sample )</tspan>
+                </text>
+                <text id="I/O-&amp;-Storage" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="216.782227" y="274">I/O &amp; STORAGE</tspan>
+                </text>
+                <text id="(-LIMS-+-)" font-family="Varta-Regular, Varta" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="232.933594" y="291">( LIMS + )</tspan>
+                </text>
+                <text id="OS-LAyer" font-family="Varta-Bold, Varta" font-size="14" font-weight="bold" fill="#364E5C">
+                    <tspan x="472" y="224">OS LAYER</tspan>
+                </text>
+                <path d="M0,360 L1000,360 L1000,728 C1000,739.045695 991.045695,748 980,748 L20,748 C8.954305,748 1.3527075e-15,739.045695 0,728 L0,360 L0,360 Z" id="Rectangle" fill="#F15858" opacity="0.100000001"></path>
+                <path d="M30,438 L970,438 C975.522847,438 980,442.477153 980,448 L980,558 L980,558 L20,558 L20,448 C20,442.477153 24.4771525,438 30,438 Z" id="Rectangle" fill="#F15858" opacity="0.200000003"></path>
+                <path d="M20,558 L980,558 L980,718 C980,723.522847 975.522847,728 970,728 L30,728 C24.4771525,728 20,723.522847 20,718 L20,558 L20,558 Z" id="Rectangle" fill="#F15858" opacity="0.429999977"></path>
+                <rect id="Rectangle" fill="#FAD0D0" transform="translate(500.000000, 555.000000) rotate(45.000000) translate(-500.000000, -555.000000) " x="490" y="545" width="20" height="20"></rect>
+                <line x1="375" y1="558.142136" x2="475" y2="558.142136" id="Path-4" stroke="#BC4646" stroke-linecap="round"></line>
+                <line x1="525" y1="558.142136" x2="625" y2="558.142136" id="Path-4" stroke="#BC4646" stroke-linecap="round"></line>
+                <polyline id="Path-5" stroke="#BC4646" points="475 558 500.5 583.248737 525.248737 558"></polyline>
+                <polyline id="Path-5" stroke="#BC4646" stroke-width="4" points="485 565 500.224263 580.074252 515 565"></polyline>
+                <rect id="Rectangle" fill="#E48989" x="40" y="458" width="136" height="75" rx="10"></rect>
+                <rect id="Rectangle" fill="#E48989" x="196" y="458" width="138" height="75" rx="10"></rect>
+                <text id="I/O-Unit" font-family="Montserrat-Bold, Montserrat" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="81.666" y="484">I/O UNIT</tspan>
+                </text>
+                <rect id="Rectangle" fill="#E48989" x="355" y="458" width="136" height="75" rx="10"></rect>
+                <text id="Memory-Unit" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="400.458984" y="484">MEMORY</tspan>
+                    <tspan x="410.320312" y="501">UNIT</tspan>
+                </text>
+                <rect id="Rectangle" fill="#E48989" x="511" y="458" width="136" height="75" rx="10"></rect>
+                <text id="Processing-Unit" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="545.586914" y="484">PROCESSING</tspan>
+                    <tspan x="566.320312" y="501">UNIT</tspan>
+                </text>
+                <rect id="Rectangle" fill="#E48989" x="668" y="458" width="136" height="75" rx="10"></rect>
+                <text id="Communication-Unit" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="692.745117" y="484">COMMUNICATION</tspan>
+                    <tspan x="725.320312" y="501">UNIT</tspan>
+                </text>
+                <text id="(-Remote-Processes-)" font-family="Varta-Regular, Varta" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="686.314453" y="517">( Remote Processes )</tspan>
+                </text>
+                <rect id="Rectangle" fill="#E48989" x="824" y="458" width="136" height="75" rx="10"></rect>
+                <text id="SKY-Pod-COnfiguratio" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="869.825195" y="484">SKY POD</tspan>
+                    <tspan x="848.734375" y="501">CONFIGURATION</tspan>
+                    <tspan x="870.613281" y="518">SERVICE</tspan>
+                </text>
+                <text id="Storage-Unit" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="240.750977" y="484">STORAGE</tspan>
+                    <tspan x="252.320312" y="501">UNIT</tspan>
+                </text>
+                <rect id="Rectangle" fill="#DA7979" x="40" y="608" width="451" height="100" rx="10"></rect>
+                <text id="Instruction-Set" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="219.429688" y="634">INSTRUCTION SET</tspan>
+                </text>
+                <rect id="Rectangle" fill="#BC4646" x="50" y="658" width="137" height="40" rx="6"></rect>
+                <text id="Execute-Instructions" font-family="Varta-Bold, Varta" font-size="10" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="99.5810547" y="675">EXECUTE</tspan>
+                    <tspan x="86.5708008" y="689">INSTRUCTIONS</tspan>
+                </text>
+                <rect id="Rectangle" fill="#BC4646" x="197" y="658" width="137" height="40" rx="6"></rect>
+                <text id="Operate-Instructions" font-family="Varta-Bold, Varta" font-size="10" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="246.014648" y="675">OPERATE</tspan>
+                    <tspan x="233.570801" y="689">INSTRUCTIONS</tspan>
+                </text>
+                <rect id="Rectangle" fill="#BC4646" x="344" y="658" width="137" height="40" rx="6"></rect>
+                <text id="Compute-Instructions" font-family="Varta-Bold, Varta" font-size="10" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="391.59375" y="675">COMPUTE</tspan>
+                    <tspan x="380.570801" y="689">INSTRUCTIONS</tspan>
+                </text>
+                <rect id="Rectangle" fill="#DA7979" x="511" y="608" width="136" height="100" rx="10"></rect>
+                <text id="Instruments-Interfac" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="541.555664" y="634">INSTRUMENTS </tspan>
+                    <tspan x="547.31543" y="651">INTERFACES</tspan>
+                </text>
+                <rect id="Rectangle" fill="#DA7979" x="668" y="608" width="136" height="100" rx="10"></rect>
+                <text id="Robotic-interfaces" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="714.574219" y="634">ROBOTIC</tspan>
+                    <tspan x="706.31543" y="651">INTERFACES</tspan>
+                </text>
+                <rect id="Rectangle" fill="#DA7979" x="824" y="608" width="136" height="100" rx="10"></rect>
+                <text id="Communication-interf" font-family="Varta-Bold, Varta" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="846.745117" y="634">COMMUNICATION</tspan>
+                    <tspan x="860.31543" y="651">INTERFACES</tspan>
+                </text>
+                <text id="Hardware-LAyer" font-family="Varta-Bold, Varta" font-size="14" font-weight="bold" fill="#702B35">
+                    <tspan x="446" y="414">HARDWARE LAYER</tspan>
+                </text>
+                <rect id="Rectangle" fill="#FDE3BA" transform="translate(500.000000, 167.000000) rotate(45.000000) translate(-500.000000, -167.000000) " x="490" y="157" width="20" height="20"></rect>
+                <rect id="Rectangle" fill="#D2E6FF" transform="translate(500.000000, 357.000000) rotate(45.000000) translate(-500.000000, -357.000000) " x="490" y="347" width="20" height="20"></rect>
+                <line x1="375" y1="170" x2="475" y2="170" id="Path-4" stroke="#B6A061" stroke-linecap="round"></line>
+                <line x1="525" y1="170" x2="625" y2="170" id="Path-4" stroke="#B6A061" stroke-linecap="round"></line>
+                <polyline id="Path-5" stroke="#B6A061" points="475 170 500.5 195.248737 525.248737 170"></polyline>
+                <polyline id="Path-5" stroke="#B6A061" stroke-width="4" points="485 177 500.224263 192.074252 515 177"></polyline>
+                <line x1="375" y1="360" x2="475" y2="360" id="Path-4" stroke="#4C9CFF" stroke-linecap="round"></line>
+                <line x1="525" y1="360" x2="625" y2="360" id="Path-4" stroke="#4C9CFF" stroke-linecap="round"></line>
+                <polyline id="Path-5" stroke="#4C9CFF" points="475 360 500.5 385.248737 525.248737 360"></polyline>
+                <polyline id="Path-5" stroke="#4C9CFF" stroke-width="4" points="485 367 500.224263 382.074252 515 367"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
