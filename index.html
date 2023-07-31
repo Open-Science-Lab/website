@@ -29,8 +29,11 @@
       <div class="header">
         <div class="section">
           <nav class="navbar navbar-expand-lg navbar-light">
-            <img class="img-fluid" src="images/logo.png" alt="" />
-
+            <img class="img-fluid logo" src="images/logo.png" alt="" />
+            <div class="search"><i class="fa fa-search" aria-hidden="true"></i></div>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent">
+              <span class="navbar-toggler-icon"></span>
+            </button>
             <div
               class="collapse navbar-collapse justify-content-end"
               id="navbarSupportedContent"
@@ -47,21 +50,14 @@
                 <li class="nav-item">
                   <a class="nav-link" href="#about">About</a>
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                   <a class="nav-link" href="#"
                     ><i class="fa fa-search" aria-hidden="true"></i
                   ></a>
-                </li>
+                </li> -->
               </ul>
             </div>
           </nav>
-          <!-- <img class="img-fluid" src="images/logo.png" alt="" />
-          <div style="float: right">
-            <span>Platform</span>
-            <span>Partnerships</span>
-            <span>About</span>
-            <i class="fa fa-search" aria-hidden="true"></i>
-          </div> -->
         </div>
 
         <div class="img-container">
@@ -197,7 +193,7 @@
         <div class="col-md-3">
           <img src="images/education.png" class="img-fluid education-img" />
         </div>
-        <div class="col-md-9">
+        <div class="col-md-9 mb-mrg-top-20">
           <p>
             Open Science Labs (OSL) are a network of science labs that provide
             cloud-based access to science labs to school and college students.
@@ -232,7 +228,7 @@
           50% of scientists say that their experiments are not reproducible.
         </div>
         <div class="row mrg-left-0">
-          <div class="col">
+          <div class="col flex-auto">
             <img
               src="images/research-chart.svg"
               class="img-fluid research-img"
@@ -278,7 +274,7 @@
             experiments on OSL in a semi-automated manner with the help of
             robots and human lab assistants.
           </div>
-          <div class="col">
+          <div class="col flex-auto">
             <img src="images/research.png" class="img-fluid research-img" />
           </div>
         </div>
