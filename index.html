@@ -7,23 +7,21 @@
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
-      crossorigin="anonymous"
-    ></script>
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css"
+      crossorigin="anonymous">
+    </script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css"
       rel="stylesheet"
       integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ"
       crossorigin="anonymous"
     />
-    <link
-      rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
-    />
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Varta&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Varta&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css" />
   </head>
+  
   <body>
     <div class="container-fluid">
       <div class="header">
@@ -34,26 +32,21 @@
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent">
               <span class="navbar-toggler-icon"></span>
             </button>
-            <div
-              class="collapse navbar-collapse justify-content-end"
-              id="navbarSupportedContent"
-            >
+            <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+              
               <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                  <a class="nav-link" href="#"
-                    >Platform <span class="sr-only">(current)</span></a
-                  >
+                  <a class="nav-link" href="#"> Platform <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#partnerships">Partnerships</a>
+                  <a class="nav-link" href="#partnerships"> Partnerships</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#about">About</a>
+                  <a class="nav-link" href="#about"> About</a>
                 </li>
+                
                 <!-- <li class="nav-item">
-                  <a class="nav-link" href="#"
-                    ><i class="fa fa-search" aria-hidden="true"></i
-                  ></a>
+                  <a class="nav-link" href="#"><i class="fa fa-search" aria-hidden="true"> </i> </a>
                 </li> -->
               </ul>
             </div>
@@ -69,6 +62,7 @@
           <div class="text-subheader">Robotic Science Computer</div>
         </div>
       </div>
+
       <img class="grpImg img-fluid" src="images/groups.png" alt="" />
 
       <div class="row">
@@ -81,221 +75,136 @@
         </div>
       </div>
 
-      <div class="groups">
-        <img class="grp-img img-fluid" src="images/group1.svg" />
-
-        <img class="grp-img img-fluid" src="images/group2.svg" />
-      </div>
-
-      <!-- Visual Interface -->
+      
+      <!-- Science R&D -->
       <div class="row">
-        <div class="col-md-5">
-          <div class="heading">Visual Interface</div>
-          <div>
-            SKY can be accessed in two ways by users:<br />
-            1. Interactive visual interface <br />
-            2. Programmatic interface <br /><br />
-
-            For education purpose, users can access SKY via a visual interface
-            and execute one instruction at a time. For each command issued by
-            them, the robot performs corresponding action in the real, physical
-            laboratory. With the real-time control of robotic movements and
-            closed feedback loop via video streaming, users can get first-hand
-            feel of running science experiments. For research purpose, users can
-            run experiments in remote, cloud-based labs by expressing the flow
-            of experimental steps using a high-level programming language, which
-            we refer to as PL/SKY. PL/SKY allows users to precisely define
-            experimental workflow, which includes iterations (loops) and
-            conditionals (if-then-else). PL/SKY programs allow users to run a
-            series of experiments in a systematic and automated manner to
-            carefully and efficiently explore the best way to run the
-            experiment.
-          </div>
+        <div class="heading text-center">Science R&D</div>
+        
+        <div class="groups">
+          <img class="grp-img img-fluid" src="images/india_rnd_spend_gdp.png" />
         </div>
-        <div class="col-md-7">
-          <img class="img-fluid" src="images/visualInterface.svg" />
-        </div>
-      </div>
-
-      <!-- SKY Instruction Set -->
-      <div class="row">
-        <div class="heading text-center">SKY Instruction Set</div>
+        
         <div class="">
-          SKY is a general-purpose, Turing-complete machine that allows users to
-          define and execute any science experiment. SKY does this with a small
-          set of instructions, which are of three types: Execute, Operate, and
-          Compute instructions.
-        </div>
-        <div class="row">
-          <div class="col instruction">
-            <div class="heading font-23">Execute instructions</div>
-            <p>
-              Specify instrument inputs digitally (via APIs) or physically (via
-              buttons, knobs, handles, etc.)
-            </p>
-            <p class="mrg-left-20">
-              With the help of appropriate instruments, operations such as heat,
-              cool, filter, wash, extract, weigh, etc. would be executed
-            </p>
-            <p>
-              Track the instrument digitally (via APIs) or physically (via video
-              streaming of instrument screens, listening to sounds such as
-              beeps, temperature sensors, etc.)
-            </p>
-            <p>
-              Record instrument outputs digitally (via APIs) or physically (via
-              screenshot/image of output screens, etc.)
-            </p>
-          </div>
-          <div class="col instruction">
-            <div class="heading font-23">Operate instructions</div>
-            <div class="operate-text">
-              (instructions executed by robots or human operators)
-            </div>
-            <p>Pick / Place</p>
-            <p>Pour / Transfer / Add / Pump (liquids)</p>
-            <p>Add / Transfer (solids)</p>
-            <p>Remove / Transfer (liquids / solids)</p>
-            <p>Twist open / Flip open</p>
-            <p>Push (button)</p>
-            <p>Pull / Push (grab an object such as a handle pull or push)</p>
-            <p>
-              Push (grab an object and push) / Hold (continue an operation for n
-              seconds)
-            </p>
-            <p>
-              Smear (for example, to spread blood drop on a microscope slide)
-            </p>
-          </div>
-          <div class="col instruction">
-            <div class="heading font-23">Compute instructions</div>
-            <p>
-              Instructions corresponding to typical programming language
-              constructs such as variables, conditionals, control-flow, loops,
-              exception handling, and so on.
-            </p>
-          </div>
-        </div>
-      </div>
+          <p>
+          India’s R&D spending (0.8% of the GDP) is much lower compared to other countries with similar 
+          scale and aspirations. To ensure that the R&D spends are utilized better, Open Science Stack 
+          is designing and building the specifications need to implement a general-purpose robotic 
+          science computer. 
+          </p>
 
-      <!-- Education -->
+          <p>
+          Using OSS specifications, we are building a reference implementation of “Open Science Lab”. 
+          The goal is to make cloud-based labs accessible to researchers across India and to let them 
+          run their wet lab experiments in an automated manner in a remote physical lab. The system will 
+          handle all aspects of running experiments – including handling materials (compounds, molecules, 
+          reagents, etc.), moving inputs and samples (test-tubes, well-plates, etc.), operating 
+          instruments, setting experimental parameters, waste disposal, etc. in a fully automated 
+          manner with the help of robots.
+          </p>
+        </div>
+      </div> 
+
+      <!-- Drug discovery & Diagnostics // should be made clickable later -->
+      <img class="grpImg img-fluid" src="images/rnd_drug_discovery_diagnostics.png" alt="" />
+
+      
+      <!-- Science R&D: drug discovery -->
+        <div class="row">
+          <div class="heading text-center">Science R&D: Drug Discovery</div>
+
+          <div class="col-md-5">
+            <img class="grp-img img-fluid" src="images/drug_discovery_funnel.png" />
+          </div>
+
+          <div class="col-md-7 mb-mrg-top-20">
+          <p>
+            We are building an extensible and scalable science computer for the preclinical phases of the drug 
+            discovery phases. The initial implementation is focused on the initial phases of the drug discovery 
+            process, especially the hit identification and hit to lead phases. Open Science Lab for drug 
+            discovery will support the following capabilities:
+          </p>
+
+          <p>
+            1. Express the precise logic for each step of the drug discovery phases such as hit 
+            identification, hit to lead iterations, lead optimization, and so on. <br />
+            2. Execute your programs iteratively and efficiently (24x7x365) to minimize the time 
+            required for these laborious iterative experiments of the target-to-hit, hit-to-lead, 
+            and lead optimization steps of drug discovery. <br />
+            3. Get access to automated systems and robots to run your experiments more accurately 
+            and eliminate human errors that typically creep in while doing these highly repetitive 
+            experiments manually <br />
+            4. Reduce the costs of doing experiments by optimizing the use of compounds / molecules 
+            and consumables (reagents, buffers, etc.) by leveraging highly-accurate automated equipment. <br />
+          </p>
+          </div>
+        </div>
+      </div> 
+
+
+      <!-- Science R&D: diagnostics -->
+      <div class="row">
+        <div class="heading text-center">Science R&D: Drug Discovery</div>
+        
+        <div class="col-md-7 mb-mrg-top-20">
+          <p>
+            We are building an extensible and scalable science computer for the preclinical phases of the drug 
+            discovery phases. The initial implementation is focused on the initial phases of the drug discovery 
+            process, especially the hit identification and hit to lead phases. Open Science Lab for drug 
+            discovery will support the following capabilities:
+          </p>
+
+          <p>
+            1. Express the precise logic for each step of the drug discovery phases such as hit 
+            identification, hit to lead iterations, lead optimization, and so on. <br />
+            2. Execute your programs iteratively and efficiently (24x7x365) to minimize the time 
+            required for these laborious iterative experiments of the target-to-hit, hit-to-lead, 
+            and lead optimization steps of drug discovery. <br />
+            3. Get access to automated systems and robots to run your experiments more accurately 
+            and eliminate human errors that typically creep in while doing these highly repetitive 
+            experiments manually <br />
+            4. Reduce the costs of doing experiments by optimizing the use of compounds / molecules 
+            and consumables (reagents, buffers, etc.) by leveraging highly-accurate automated equipment. <br />
+          </p>
+        </div>
+
+        <div class="groups">
+          <img class="grp-img img-fluid" src="images/diagnostics_research_funnel.png" />
+        </div>
+      </div> 
+
+      <!-- Science Education -->
       <div class="row">
         <div class="heading text-center">Education</div>
-        <div class="col-md-3">
-          <img src="images/education.png" class="img-fluid education-img" />
-        </div>
-        <div class="col-md-9 mb-mrg-top-20">
-          <p>
-            Open Science Labs (OSL) are a network of science labs that provide
-            cloud-based access to science labs to school and college students.
-          </p>
 
-          <p>
-            As per Government of India survey, 65% of Class 11th and 12th
-            students in India don’t have access to adequate science labs. There
-            are more than 16 million senior school students studying science in
-            India. Moreover, 71% of Class 9th and 10th students in India don’t
-            have access to adequate science labs. There are more than 38 million
-            high school students studying science in India.
-          </p>
+        <div class="groups">
+          <img class="grp-img img-fluid" src="images/ncert_science_lab_survey.png" />
+        </div>
+        
+        <div class="">
+          <div>
+            <p>
+              In India,  more than 38 million high school students and 16 million senior school students study science. 
+              However, as per NCERT survey, as many as 65% schools for senior students don’t have adequate science 
+              labs -- even for the students who have opted to study science in Classes 11th and 12th! Moreover, 
+              71% of Class 9th and 10th students in India don’t have access to adequate science labs. 
+            </p>
 
-          <p>
-            OSL provides anytime and anywhere access to fully-equipped science
-            labs to students. By providing opportunities to students to do
-            science experiments with real equipment, OSL helps to strengthen
-            students’ scientific foundations. OSL enables teachers to fuel the
-            spark of scientific inquiry by guiding interested students to define
-            and run a large variety of science experiments to explore and
-            understand the world around them.
-          </p>
-        </div>
-      </div>
+            <p>
+              Consequently, students (and teachers) resort to "learning by rote" (typically) or to "learning by example" 
+              (in the best case, when self-motivated teachers take personal initiative to make the topic more interesting). 
+              In science pedagogy, "learning by doing" is known to be more effective. To provide every student in India 
+              the opportunity to learn by doing their own experiments and, thereby, to experience the joy of science, 
+              we are building cloud-based Open Science Labs (OSL) so that they can be made available to school students.              
+            </p>
 
-      <!-- Research -->
-      <div class="row">
-        <div class="heading text-center">Research</div>
-        <div>
-          A survey of 1,576 scientists as participants revealed that more than
-          50% of scientists say that their experiments are not reproducible.
-        </div>
-        <div class="row mrg-left-0">
-          <div class="col flex-auto">
-            <img
-              src="images/research-chart.svg"
-              class="img-fluid research-img"
-            />
-          </div>
-          <div class="col mrg-top-20">
-            The above results are from Nature's online survey (published in
-            2016) of 1,576 researchers, who were asked a few questions about
-            reproducibility in research. 52% of those surveyed felt that there
-            was a significant 'crisis' of reproducibility. The right-hand side
-            figure is even more troubling. It shows that more than 70% of
-            researchers failed to reproduce another scientist's experiments. In
-            fact, more than half have failed to repeat and replicate their own
-            experiments!
-          </div>
-        </div>
-        <div class="row mrg-left-0">
-          <div class="col mrg-top-20">
-            PL/SKY allows experiments to be expressed as “science programs”,
-            which precisely capture all details related to the execution of
-            experiments. These include experimental parameters as well as
-            operating parameters and conditions.
-          </div>
-          <div class="col mrg-top-20">
-            PL/SKY science programs make it possible for researchers to enable
-            their collaborators to reproduce and replicate their experiments
-            easily. Since the programs encapsulate all details needed to run
-            experiments, others can repeat experiments (to validate past
-            experiments and to collect new observations based on modifications
-            and variations) just by running the programs again. This will help
-            alleviate a major challenge facing the research community right now:
-            the reproducibility crisis!
-          </div>
-        </div>
-        <div class="row mrg-left-0">
-          <div class="col mrg-top-20">
-            After replicating the experiments, researchers will also be able to
-            modify and enhance experiments by modifying the operating
-            conditions/parameters of one or more steps or, even, by adding one
-            or more steps. A number of possible variations of the original
-            experiment can be run by adding appropriate loops and conditions in
-            the original PL/SKY program and then running these sets of
-            experiments on OSL in a semi-automated manner with the help of
-            robots and human lab assistants.
-          </div>
-          <div class="col flex-auto">
-            <img src="images/research.png" class="img-fluid research-img" />
-          </div>
-        </div>
-      </div>
-
-      <!-- Startup -->
-      <div class="row">
-        <div class="heading text-center">Startup</div>
-        <div class="row mrg-left-0">
-          <div class="col-md-7">
-            From the startup ecosystem perspective, just like the cloud
-            platforms reduced the CapEx and OpEx for digital-first startups, the
-            OSL platform will reduce the CapEx required by startups (such as
-            those in life sciences, renewable energy, and several other evolving
-            fields) to get started with building and testing products anchored
-            around scientific innovations and core-tech R&D. In addition, OSL
-            will reduce the OpEx required to maintain and manage labs filled
-            with a wide variety of equipment, which requires skilled lab
-            technicians and dedicated support staff for procuring various lab
-            materials (such as reagents, chemicals, etc.).
-          </div>
-          <div class="col-md-5 startup">
-            <img
-              class="startup-img startup-up-img"
-              src="images/startup-down.svg"
-            />
-            <img
-              class="startup-img startup-down-img"
-              src="images/startup-up.svg"
-            />
+            <p>
+              OSL provides anytime and anywhere access to fully-equipped science labs to students. By providing 
+              opportunities to students to do science experiments with real equipment and to play with them in 
+              a controlled environment (with no risk of them breaking or getting sploit), OSL helps to strengthen 
+              students’ scientific foundations. OSL also enables teachers to fuel the spark of scientific inquiry 
+              by guiding interested students to define and run a large variety of science experiments to explore 
+              and understand the world around them. 
+            </p>
           </div>
         </div>
       </div>
@@ -375,27 +284,28 @@
         <div>
           Open Science Stack (OSS) is a not-for-profit initiative building a
           societal-scale platform for open science. OSS is building the world’s
-          first science computer using open and extensible architecture so that
+          first robotic science computer using open and extensible architecture so that
           researchers can run any science experiment.
         </div>
 
 
         <div class="heading text-center" style="margin-top: 25px;">Team</div>
         <!-- Core Team -->
-        <div class="sub-heading">Core Team</div>
+        <div class="sub-heading">Team</div>
 
         <div class="row about-members">
           <div class="col-md-2">
-            <img class="img-fluid" src="images/about.png" />
+            <img class="img-fluid" src="images/ajay_sethi.png" />
             <div class="name">Ajay Sethi</div>
           </div>
           <div class="col-md-10">
-            Ajay Sethi is a Venture Partner and Advisor at Accel India. He has
-            almost two decades of experience with the Indian startup ecosystem
-            -- first as an entrepreneur (of two venture-backed startups) and
+            Ajay Sethi is a venture advisor and an entrepreneur He has almost two
+            decades of experience with the Indian startup ecosystem -- 
+            first as an entrepreneur (of two venture-backed startups) and
             then as an strategic advisor to early-stage as well as growth-stage
-            startups. Over the last decade he has worked with hundreds of
-            successful startups across consumer (B2C) and business (B2B) sectors
+            startups. As a Venture Partner at Accel India over the last decade, 
+            he has worked with hundreds of 
+            startups across consumer (B2C) and business (B2B) sectors
             spread across India, USA, and other parts of the world. Over the
             last 7 years, he has helped build incubators for core-tech startups
             at IIT Bombay and IISc Bengaluru. He has Ph.D. from Rice University
@@ -405,7 +315,7 @@
 
         <div class="row about-members">
           <div class="col-md-2">
-            <img class="img-fluid" src="images/about.png" />
+            <img class="img-fluid" src="images/amrutur_bharadwaj.png" />
             <div class="name">Amrutur Bharadwaj</div>
           </div>
           <div class="col-md-10">
@@ -423,7 +333,7 @@
 
         <div class="row about-members">
           <div class="col-md-2">
-            <img class="img-fluid" src="images/about.png" />
+            <img class="img-fluid" src="images/kaushal_sarda.png" />
             <div class="name">Kaushal Sarda</div>
           </div>
           <div class="col-md-10">
@@ -439,299 +349,6 @@
           </div>
         </div>
 
-        <div class="row about-members">
-          <div class="col-md-2">
-            <img class="img-fluid" src="images/about.png" />
-            <div class="name">Samik</div>
-          </div>
-          <div class="col-md-10">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </div>
-        </div>
-
-        <div class="row about-members">
-          <div class="col-md-2">
-            <img class="img-fluid" src="images/about.png" />
-            <div class="name">Suchee</div>
-          </div>
-          <div class="col-md-10">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </div>
-        </div>
-
-        <div class="row about-members">
-          <div class="col-md-2">
-            <img class="img-fluid" src="images/about.png" />
-            <div class="name">Suresh</div>
-          </div>
-          <div class="col-md-10">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </div>
-        </div>
-
-        <div class="row about-members">
-          <div class="col-md-2">
-            <img class="img-fluid" src="images/about.png" />
-            <div class="name">Ruth</div>
-          </div>
-          <div class="col-md-10">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </div>
-        </div>
-
-        <!-- Advisors -->
-        <div class="sub-heading">Advisors</div>
-        <div class="row about-members">
-          <div class="col-md-2">
-            <img class="img-fluid" src="images/about.png" />
-            <div class="name">Akira Funahashi</div>
-          </div>
-          <div class="col-md-10">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </div>
-        </div>
-
-        <div class="row about-members">
-          <div class="col-md-2">
-            <img class="img-fluid" src="images/about.png" />
-            <div class="name">Hiroaki Kitano</div>
-          </div>
-          <div class="col-md-10">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </div>
-        </div>
-
-        <div class="row about-members">
-          <div class="col-md-2">
-            <img class="img-fluid" src="images/about.png" />
-            <div class="name">Manoj Varma</div>
-          </div>
-          <div class="col-md-10">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </div>
-        </div>
-
-        <div class="row about-members">
-          <div class="col-md-2">
-            <img class="img-fluid" src="images/about.png" />
-            <div class="name">Sanjib</div>
-          </div>
-          <div class="col-md-10">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </div>
-        </div>
-
-        <!-- Alumini -->
-        <div class="sub-heading">Alumini</div>
-        <div class="row about-members">
-          <div class="col-md-2">
-            <img class="img-fluid" src="images/about.png" />
-            <div class="name">Ajay Sethi</div>
-          </div>
-          <div class="col-md-10">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </div>
-        </div>
-
-        <!-- Industrial Partner -->
-        <!-- <div class="sub-heading">Industrial Partner</div>
-        <div class="partner-box">
-          <img class="img-fluid" src="images/VIT.png" />
-        </div> -->
-      </div>
-
-      <!-- Partnerships -->
-      <div class="row" style="display: none;">
-        <div class="heading">Partnerships</div>
-        <div class="row mrg-left-0">
-          <div class="col box">
-            <div>
-              <img class="img-fluid partnership" src="images/about.png" />
-              <div style="display: inline-block">
-                <div class="name-header">Bharadwaj Amruthur</div>
-                <div class="title">PROFESSOR</div>
-                <div class="contact">
-                  <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                  amruthur@iisc.ac.in
-                </div>
-                <div class="contact">
-                  <i class="fa fa-phone" aria-hidden="true"></i> +91 -
-                  8022932046
-                </div>
-              </div>
-
-              <p class="partnership-text">Education</p>
-              <p class="partnership-sub-text">ECE, MP 325</p>
-
-              <p class="partnership-text">Bio</p>
-              <p class="partnership-sub-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat.
-              </p>
-
-              <p class="partnership-text">Expertise</p>
-              <ul class="partnership-sub-text">
-                <li>Large scale IoT enabled system</li>
-                <li>Collaborative Robotics</li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="col box">
-            <div>
-              <img class="img-fluid partnership" src="images/about.png" />
-              <div style="display: inline-block">
-                <div class="name-header">Manoj Verma</div>
-                <div class="title">ASSOCIATE PROFESSOR</div>
-                <div class="contact">
-                  <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                  manonj@iisc.ac.in
-                </div>
-                <div class="contact">
-                  <i class="fa fa-phone" aria-hidden="true"></i> +91 -
-                  8022932046
-                </div>
-              </div>
-
-              <p class="partnership-text">Education</p>
-              <p class="partnership-sub-text">ECE, MP 325</p>
-
-              <p class="partnership-text">Bio</p>
-              <p class="partnership-sub-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat.
-              </p>
-
-              <p class="partnership-text">Expertise</p>
-              <ul class="partnership-sub-text">
-                <li>Large scale IoT enabled system</li>
-                <li>Collaborative Robotics</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Members -->
-      <div class="row" style="display: none;">
-        <div class="heading">Members</div>
-        <div class="row mrg-left-0">
-          <div class="col box">
-            <div>
-              <img class="img-fluid partnership" src="images/about.png" />
-              <div style="display: inline-block">
-                <div class="name-header">Hiraoki Kitano</div>
-                <div class="title">PH. D PRESIDENT</div>
-                <div class="contact">
-                  <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                  kitano@sbi.jp or h.kitano@csl.sony.co.jp
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col box">
-            <div>
-              <img class="img-fluid partnership" src="images/about.png" />
-              <div style="display: inline-block">
-                <div class="name-header">Samik Ghosh</div>
-                <div class="title">PH. D</div>
-                <div class="contact">
-                  <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                  ghosh@sbi.jp
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="row mrg-left-0">
-          <div class="col box">
-            <div>
-              <img class="img-fluid partnership" src="images/about.png" />
-              <div style="display: inline-block">
-                <div class="name-header">Ayako Yachie</div>
-                <div class="title">PH. D</div>
-                <div class="contact">
-                  <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                  yachie@sbi.jp
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col box">
-            <div>
-              <img class="img-fluid partnership" src="images/about.png" />
-              <div style="display: inline-block">
-                <div class="name-header">Sucheetindra Kumar Palaniappan</div>
-                <div class="title">PH. D</div>
-                <div class="contact">
-                  <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                  sucheetindra@sbi.jp
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
 
       <!-- Footer Section -->
       <div class="subFooter">
