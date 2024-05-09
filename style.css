@@ -405,27 +405,9 @@ ul {
   width: auto;
 }
 
-.content-slider {
-  width: 100%;
-  height: 360px;
-}
-
-.slider {
-  height: 320px;
-  width: 680px;
-  margin: 40px auto 0;
-  overflow: visible;
-  position: relative;
-}
-
-.mask {
-  overflow: hidden;
-  height: 320px;
-}
-
 .frame {
     position: relative;
-    top: 100px;
+    top: 200px;
     margin: 0 auto;
     width: 600px;
     height: 200px;
@@ -436,7 +418,7 @@ ul {
 
 .element {
     text-align: center;
-    font-size: 50px;
+    font-size: 16px;
     line-height: 200px;
 }
 
