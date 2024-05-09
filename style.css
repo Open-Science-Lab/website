@@ -407,7 +407,7 @@ ul {
 
 .frame {
     position: relative;
-    top: 180px;
+    top: 170px;
     margin-top: 0;
     margin-bottom: 0;
     margin-left: auto;
@@ -434,15 +434,15 @@ ul {
         transform: translateY(0);
     }
     25%, 45% {
-        transform: translateY(-95px)
+        transform: translateY(-93px)
     }
     50%, 70% {
-        transform: translateY(-190px)
+        transform: translateY(-186px)
     }
     75%, 95% {
-        transform: translateY(-285px)
+        transform: translateY(-279px)
     }
     100% {
-        transform: translateY(-380px)
+        transform: translateY(-372px)
     }
 }
