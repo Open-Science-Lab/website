@@ -37,7 +37,7 @@
   }
 
   .row {
-    margin: auto;
+    margin: 20px 0px 0px 0px !important;
   }
 
   .groups {
@@ -94,10 +94,13 @@ body {
   color: #585858;
 }
 
+.row {
+  margin: auto;
+}
 
 .header {
   width: 100%;
-  height: 700px;
+  height: 500px;
   background-image: url(images/background.svg);
   mix-blend-mode: normal;
 }
