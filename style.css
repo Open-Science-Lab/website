@@ -106,7 +106,7 @@ body {
 
 .header {
   width: 100%;
-  height: 650px;
+  height: 700px;
   background-image: url(images/background.svg);
   mix-blend-mode: normal;
 }
@@ -434,15 +434,15 @@ ul {
         transform: translateY(0);
     }
     25%, 45% {
-        transform: translateY(-93px)
+        transform: translateY(-97px)
     }
     50%, 70% {
-        transform: translateY(-186px)
+        transform: translateY(-194px)
     }
     75%, 95% {
-        transform: translateY(-279px)
+        transform: translateY(-286px)
     }
     100% {
-        transform: translateY(-372px)
+        transform: translateY(-388px)
     }
 }
