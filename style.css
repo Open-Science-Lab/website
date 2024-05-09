@@ -434,15 +434,15 @@ ul {
         transform: translateY(0);
     }
     25%, 45% {
-        transform: translateY(-97px)
+        transform: translateY(-96px)
     }
     50%, 70% {
-        transform: translateY(-194px)
+        transform: translateY(-192px)
     }
     75%, 95% {
-        transform: translateY(-286px)
+        transform: translateY(-283px)
     }
     100% {
-        transform: translateY(-388px)
+        transform: translateY(-384px)
     }
 }
