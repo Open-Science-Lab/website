@@ -410,7 +410,7 @@ ul {
     top: 120px;
     margin: 0 auto;
     width: 780px;
-    height: 200px;
+    height: 100px;
     border-radius: 2px;
     color: black;
     overflow: hidden
@@ -419,7 +419,7 @@ ul {
 .element {
     text-align: center;
     font-size: 20px;
-    line-height: 200px;
+    line-height: 100px;
 }
 
 .carousel {
@@ -431,15 +431,15 @@ ul {
         transform: translateY(0);
     }
     25%, 45% {
-        transform: translateY(-200px)
+        transform: translateY(-100px)
     }
     50%, 70% {
-        transform: translateY(-400px)
+        transform: translateY(-200px)
     }
     75%, 95% {
-        transform: translateY(-600px)
+        transform: translateY(-300px)
     }
     100% {
-        transform: translateY(-800px)
+        transform: translateY(-400px)
     }
 }
