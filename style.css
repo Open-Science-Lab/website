@@ -408,7 +408,10 @@ ul {
 .frame {
     position: relative;
     top: 150px;
-    margin: 0 auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right:auto;
     width: 780px;
     height: 80px;
     border-radius: 2px;
@@ -423,7 +426,7 @@ ul {
 }
 
 .carousel {
-    animation: carousel 15s ease-in-out infinite;
+    animation: carousel 20s ease-in-out infinite;
 }
 
 @keyframes carousel {
