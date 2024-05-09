@@ -1,6 +1,6 @@
 @media (max-width: 768px) {
   .logo {
-    width: 30px;
+    width: 5px;
   }
 
   .section {
@@ -37,7 +37,7 @@
   }
 
   .row {
-    margin: 30px 0px 0px 0px !important;
+    margin: auto;
   }
 
   .groups {
@@ -90,12 +90,12 @@
 }
 
 body {
-  font-family: "Varta";
+  font-family: "Candara";
   color: #585858;
 }
 
 .row {
-  margin: auto;
+  margin: 30px 50px 0px 50px;;
 }
 
 .header {
